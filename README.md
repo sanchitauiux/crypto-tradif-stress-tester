@@ -32,3 +32,4 @@ When running a sweep across a 0% to -60% crash scenario, the model maps the non-
 Ensure you have Python 3.14+ installed along with the required analytical libraries:
 ```bash
 pip install yfinance pandas matplotlib
+![Stress Test Results Simulation](Figure_1.png)
