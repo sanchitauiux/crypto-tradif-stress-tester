@@ -1,6 +1,6 @@
 # crypto-tradif-stress-tester
 A Python model simulating cascading risk loops between crypto crashes, bank margin calls, and insurance insolvencies.
-# Crypto-TradFi Contagion Stress Tester 🌊📉
+# Crypto-TradFi Contagion Stress Tester 
 
 An automated risk simulation engine built in Python to model hidden contagion channels between decentralized finance (DeFi) volatility and traditional financial institutions (Banks and Insurance sectors). 
 
